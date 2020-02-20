@@ -1,2 +1,2 @@
-# sem-1-project
+# sem-1-Project
 My 1st semester project
